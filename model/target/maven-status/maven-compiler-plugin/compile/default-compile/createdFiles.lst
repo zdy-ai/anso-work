@@ -1,0 +1,5 @@
+sms\model\NameEntity.class
+module-info.class
+sms\model\Entity.class
+sms\model\Student.class
+sms\model\Course.class
