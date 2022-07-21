@@ -1,6 +1,5 @@
 package sms.runtime;
 
-import sms.service.ServiceException;
 import sms.service.StudentService;
 
 import java.lang.reflect.InvocationTargetException;

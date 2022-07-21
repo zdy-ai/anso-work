@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/anso-01-file-center.iml" filepath="$PROJECT_DIR$/anso-01-file-center/anso-01-file-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/filestore/filestore.iml" filepath="$PROJECT_DIR$/filestore/filestore.iml" />
-      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/model/model.iml" filepath="$PROJECT_DIR$/anso-01-file-center/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/persistence/persistence.iml" filepath="$PROJECT_DIR$/persistence/persistence.iml" />
       <module fileurl="file://$PROJECT_DIR$/runtime/runtime.iml" filepath="$PROJECT_DIR$/runtime/runtime.iml" />

@@ -14,9 +14,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="anso-01-file-center" target="1.5" />
       <module name="filestore" target="11" />
       <module name="model" target="11" />
-      <module name="parent" target="11" />
+      <module name="parent" target="1.5" />
       <module name="persistence" target="11" />
       <module name="runtime" target="11" />
       <module name="service" target="11" />
