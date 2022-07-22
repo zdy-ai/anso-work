@@ -11,7 +11,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="persistence" />
     <orderEntry type="library" name="Maven: com.sms.java9:model:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="persistence" />
   </component>
 </module>

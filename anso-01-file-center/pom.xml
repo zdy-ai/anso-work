@@ -11,11 +11,13 @@
 
     <artifactId>anso-01-file-center</artifactId>
     <packaging>pom</packaging>
+    <name>anso-01-file-center</name>
     <modules>
         <module>service</module>
         <module>persistence</module>
         <module>filestore</module>
         <module>runtime</module>
+        <module>model</module>
     </modules>
 
 

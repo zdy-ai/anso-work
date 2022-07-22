@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/anso-01-file-center.iml" filepath="$PROJECT_DIR$/anso-01-file-center/anso-01-file-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anso-02-spring-webFlux/anso-02-spring-webFlux.iml" filepath="$PROJECT_DIR$/anso-02-spring-webFlux/anso-02-spring-webFlux.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-work.iml" filepath="$PROJECT_DIR$/anso-work.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/filestore/filestore.iml" filepath="$PROJECT_DIR$/anso-01-file-center/filestore/filestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/model/model.iml" filepath="$PROJECT_DIR$/anso-01-file-center/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/persistence/persistence.iml" filepath="$PROJECT_DIR$/anso-01-file-center/persistence/persistence.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/runtime/runtime.iml" filepath="$PROJECT_DIR$/anso-01-file-center/runtime/runtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/service/service.iml" filepath="$PROJECT_DIR$/anso-01-file-center/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anso-02-spring-webFlux/web-flux/web-flux.iml" filepath="$PROJECT_DIR$/anso-02-spring-webFlux/web-flux/web-flux.iml" />
     </modules>
   </component>
 </project>
