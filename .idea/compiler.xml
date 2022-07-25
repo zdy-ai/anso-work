@@ -13,11 +13,13 @@
         <module name="persistence" />
         <module name="runtime" />
         <module name="model" />
+        <module name="anso-03-spring-kafka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="anso-01-file-center" target="1.8" />
       <module name="anso-02-spring-webFlux" target="1.8" />
+      <module name="anso-03-spring-kafka" target="17" />
       <module name="anso-work" target="1.8" />
       <module name="filestore" target="11" />
       <module name="model" target="11" />
@@ -30,6 +32,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="anso-02-spring-webFlux" options="-parameters" />
+      <module name="anso-03-spring-kafka" options="-parameters" />
       <module name="filestore" options="-parameters" />
       <module name="model" options="-parameters" />
       <module name="persistence" options="-parameters" />

@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/anso-02-spring-webFlux/pom.xml" />
         <option value="$PROJECT_DIR$/anso-02-spring-webFlux/web-flux/pom.xml" />
         <option value="$PROJECT_DIR$/anso-01-file-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-03-spring-kafka/pom.xml" />
       </list>
     </option>
   </component>

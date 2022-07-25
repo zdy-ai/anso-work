@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/anso-01-file-center.iml" filepath="$PROJECT_DIR$/anso-01-file-center/anso-01-file-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-02-spring-webFlux/anso-02-spring-webFlux.iml" filepath="$PROJECT_DIR$/anso-02-spring-webFlux/anso-02-spring-webFlux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anso-03-spring-kafka/anso-03-spring-kafka.iml" filepath="$PROJECT_DIR$/anso-03-spring-kafka/anso-03-spring-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-work.iml" filepath="$PROJECT_DIR$/anso-work.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/filestore/filestore.iml" filepath="$PROJECT_DIR$/anso-01-file-center/filestore/filestore.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/model/model.iml" filepath="$PROJECT_DIR$/anso-01-file-center/model/model.iml" />

@@ -16,7 +16,8 @@
 
     <modules>
 <!--        <module>anso-01-file-center</module>-->
-        <module>anso-02-spring-webFlux</module>
+<!--        <module>anso-02-spring-webFlux</module>-->
+        <module>anso-03-spring-kafka</module>
     </modules>
 
 </project>
