@@ -8,20 +8,25 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="filestore" />
+        <module name="anso-04-spring-quartz" />
         <module name="web-flux" />
         <module name="service" />
+        <module name="anso-05-spring-security" />
+        <module name="kafka-demo" />
         <module name="persistence" />
         <module name="runtime" />
         <module name="model" />
-        <module name="anso-03-spring-kafka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="anso-01-file-center" target="1.8" />
       <module name="anso-02-spring-webFlux" target="1.8" />
       <module name="anso-03-spring-kafka" target="17" />
+      <module name="anso-04-spring-quartz" target="17" />
+      <module name="anso-05-spring-security" target="17" />
       <module name="anso-work" target="1.8" />
       <module name="filestore" target="11" />
+      <module name="kafka-demo" target="17" />
       <module name="model" target="11" />
       <module name="persistence" target="11" />
       <module name="runtime" target="11" />
@@ -33,7 +38,10 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="anso-02-spring-webFlux" options="-parameters" />
       <module name="anso-03-spring-kafka" options="-parameters" />
+      <module name="anso-04-spring-quartz" options="-parameters" />
+      <module name="anso-05-spring-security" options="-parameters" />
       <module name="filestore" options="-parameters" />
+      <module name="kafka-demo" options="-parameters" />
       <module name="model" options="-parameters" />
       <module name="persistence" options="-parameters" />
       <module name="runtime" options="-parameters" />

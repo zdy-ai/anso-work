@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/anso-01-file-center.iml" filepath="$PROJECT_DIR$/anso-01-file-center/anso-01-file-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-02-spring-webFlux/anso-02-spring-webFlux.iml" filepath="$PROJECT_DIR$/anso-02-spring-webFlux/anso-02-spring-webFlux.iml" />
-      <module fileurl="file://$PROJECT_DIR$/anso-03-spring-kafka/anso-03-spring-kafka.iml" filepath="$PROJECT_DIR$/anso-03-spring-kafka/anso-03-spring-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anso-04-spring-quartz/anso-04-spring-quartz.iml" filepath="$PROJECT_DIR$/anso-04-spring-quartz/anso-04-spring-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anso-05-spring-security/anso-05-spring-security.iml" filepath="$PROJECT_DIR$/anso-05-spring-security/anso-05-spring-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-work.iml" filepath="$PROJECT_DIR$/anso-work.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/filestore/filestore.iml" filepath="$PROJECT_DIR$/anso-01-file-center/filestore/filestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anso-03-spring-kafka/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/anso-03-spring-kafka/kafka-demo/kafka-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/model/model.iml" filepath="$PROJECT_DIR$/anso-01-file-center/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/persistence/persistence.iml" filepath="$PROJECT_DIR$/anso-01-file-center/persistence/persistence.iml" />
       <module fileurl="file://$PROJECT_DIR$/anso-01-file-center/runtime/runtime.iml" filepath="$PROJECT_DIR$/anso-01-file-center/runtime/runtime.iml" />

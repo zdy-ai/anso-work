@@ -12,7 +12,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: io.projectreactor:reactor-core:3.4.19" level="project" />
-    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: io.projectreactor:reactor-test:3.4.19" level="project" />
     <orderEntry type="module" module-name="persistence" />
     <orderEntry type="library" name="Maven: com.sms.java9:model:1.0-SNAPSHOT" level="project" />
