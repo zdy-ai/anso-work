@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="2000" />
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -8,45 +9,163 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="filestore" />
-        <module name="anso-04-spring-quartz" />
-        <module name="web-flux" />
-        <module name="service" />
+        <module name="db-spring-boot-starter" />
+        <module name="common-spring-boot-starter" />
+        <module name="rabbitmq-spring-boot-starter" />
         <module name="anso-05-spring-security" />
-        <module name="kafka-demo" />
-        <module name="persistence" />
-        <module name="runtime" />
+        <module name="ribbon-spring-boot-starter" />
+        <module name="job-demo" />
+        <module name="uaa-client-spring-boot-starter" />
+        <module name="redis-spring-boot-starter" />
+        <module name="report-center" />
+        <module name="anso-04-spring-quartz" />
+        <module name="log-center" />
+        <module name="job-admin" />
+        <module name="fescar-api" />
+        <module name="fescar-user" />
+        <module name="file-center" />
         <module name="model" />
+        <module name="sentinel-dashboard" />
+        <module name="fescar-item" />
+        <module name="back-center" />
+        <module name="job-core" />
+        <module name="user-center" />
+        <module name="web-flux" />
+        <module name="auth-server" />
+        <module name="log-spring-boot-starter" />
+        <module name="kafka-demo" />
+        <module name="generator-center" />
+        <module name="runtime" />
+        <module name="fescar-order" />
+        <module name="new-api-gateway" />
+        <module name="service" />
+        <module name="sentinel-spring-boot-starter" />
+        <module name="elastic-job-spring-boot-starter" />
+        <module name="api-gateway" />
+        <module name="uaa-server-spring-boot-starter" />
+        <module name="es-client" />
+        <module name="persistence" />
+        <module name="admin-server" />
+        <module name="sms-center" />
+        <module name="transaction-center" />
+        <module name="workflow-center" />
+        <module name="swagger-spring-boot-starter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="admin-server" target="1.8" />
       <module name="anso-01-file-center" target="1.8" />
       <module name="anso-02-spring-webFlux" target="1.8" />
       <module name="anso-03-spring-kafka" target="17" />
       <module name="anso-04-spring-quartz" target="17" />
       <module name="anso-05-spring-security" target="17" />
+      <module name="anso-06-spring-cloud-ocp" target="1.8" />
       <module name="anso-work" target="1.8" />
+      <module name="api-gateway" target="1.8" />
+      <module name="auth-server" target="1.8" />
+      <module name="auth-sso" target="1.8" />
+      <module name="back-center" target="1.8" />
+      <module name="business-center" target="1.8" />
+      <module name="common-spring-boot-starter" target="1.8" />
+      <module name="db-spring-boot-starter" target="1.8" />
+      <module name="elastic-job-spring-boot-starter" target="1.8" />
+      <module name="es-client" target="1.8" />
+      <module name="es-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="fescar-api" target="1.8" />
+      <module name="fescar-center" target="1.8" />
+      <module name="fescar-item" target="1.8" />
+      <module name="fescar-order" target="1.8" />
+      <module name="fescar-user" target="1.8" />
+      <module name="file-center" target="1.8" />
       <module name="filestore" target="11" />
+      <module name="generator-center" target="1.8" />
+      <module name="inner-intergration" target="1.8" />
+      <module name="job-admin" target="1.8" />
+      <module name="job-center" target="1.8" />
+      <module name="job-core" target="1.8" />
+      <module name="job-demo" target="1.8" />
       <module name="kafka-demo" target="17" />
+      <module name="log-center" target="1.8" />
+      <module name="log-spring-boot-starter" target="1.8" />
       <module name="model" target="11" />
+      <module name="monitor-center" target="1.8" />
+      <module name="new-api-gateway" target="1.8" />
+      <module name="oauth-center" target="1.8" />
+      <module name="open-capacity-platform" target="1.8" />
       <module name="persistence" target="11" />
+      <module name="rabbitmq-spring-boot-starter" target="1.8" />
+      <module name="redis-spring-boot-starter" target="1.8" />
+      <module name="register-center" target="1.8" />
+      <module name="report-center" target="1.8" />
+      <module name="ribbon-spring-boot-starter" target="1.8" />
       <module name="runtime" target="11" />
+      <module name="sentinel-dashboard" target="1.8" />
+      <module name="sentinel-spring-boot-starter" target="1.8" />
       <module name="service" target="11" />
+      <module name="sms-center" target="1.8" />
+      <module name="swagger-spring-boot-starter" target="1.8" />
+      <module name="transaction-center" target="1.8" />
+      <module name="uaa-client-spring-boot-starter" target="1.8" />
+      <module name="uaa-server-spring-boot-starter" target="1.8" />
+      <module name="user-center" target="1.8" />
       <module name="web-flux" target="8" />
+      <module name="web-portal" target="1.8" />
+      <module name="workflow-center" target="1.8" />
+      <module name="zipkin-center" target="1.8" />
+      <module name="zipkin-center-es" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-server" options="-parameters" />
       <module name="anso-02-spring-webFlux" options="-parameters" />
       <module name="anso-03-spring-kafka" options="-parameters" />
       <module name="anso-04-spring-quartz" options="-parameters" />
       <module name="anso-05-spring-security" options="-parameters" />
+      <module name="anso-06-spring-cloud-ocp" options="-parameters" />
+      <module name="api-gateway" options="-parameters" />
+      <module name="auth-server" options="-parameters" />
+      <module name="auth-sso" options="-parameters" />
+      <module name="back-center" options="-parameters" />
+      <module name="common-spring-boot-starter" options="-parameters" />
+      <module name="db-spring-boot-starter" options="-parameters" />
+      <module name="elastic-job-spring-boot-starter" options="-parameters" />
+      <module name="es-client" options="-parameters" />
+      <module name="es-server" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="fescar-api" options="-parameters" />
+      <module name="fescar-item" options="-parameters" />
+      <module name="fescar-order" options="-parameters" />
+      <module name="fescar-user" options="-parameters" />
+      <module name="file-center" options="-parameters" />
       <module name="filestore" options="-parameters" />
+      <module name="generator-center" options="-parameters" />
+      <module name="job-admin" options="-parameters" />
+      <module name="job-core" options="-parameters" />
+      <module name="job-demo" options="-parameters" />
       <module name="kafka-demo" options="-parameters" />
+      <module name="log-center" options="-parameters" />
+      <module name="log-spring-boot-starter" options="-parameters" />
       <module name="model" options="-parameters" />
+      <module name="new-api-gateway" options="-parameters" />
       <module name="persistence" options="-parameters" />
+      <module name="rabbitmq-spring-boot-starter" options="-parameters" />
+      <module name="redis-spring-boot-starter" options="-parameters" />
+      <module name="report-center" options="-parameters" />
+      <module name="ribbon-spring-boot-starter" options="-parameters" />
       <module name="runtime" options="-parameters" />
+      <module name="sentinel-dashboard" options="-parameters" />
+      <module name="sentinel-spring-boot-starter" options="-parameters" />
       <module name="service" options="-parameters" />
+      <module name="sms-center" options="-parameters" />
+      <module name="swagger-spring-boot-starter" options="-parameters" />
+      <module name="transaction-center" options="-parameters" />
+      <module name="uaa-client-spring-boot-starter" options="-parameters" />
+      <module name="uaa-server-spring-boot-starter" options="-parameters" />
+      <module name="user-center" options="-parameters" />
       <module name="web-flux" options="-parameters" />
+      <module name="workflow-center" options="-parameters" />
     </option>
   </component>
 </project>

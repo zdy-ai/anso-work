@@ -10,7 +10,47 @@
         <option value="$PROJECT_DIR$/anso-04-spring-quartz/pom.xml" />
         <option value="$PROJECT_DIR$/anso-05-spring-security/pom.xml" />
         <option value="$PROJECT_DIR$/anso-03-spring-kafka/kafka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/db-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/common-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/business-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/business-center/file-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/oauth-center/auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/web-portal/back-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/business-center/sms-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/business-center/generator-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/oauth-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/register-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/rabbitmq-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/redis-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/ribbon-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/swagger-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/uaa-client-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/uaa-server-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/inner-intergration/log-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/new-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/monitor-center/log-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/monitor-center/admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/monitor-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/job-center/job-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/job-center/job-core/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/job-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/job-center/job-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/web-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/business-center/workflow-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/monitor-center/transaction-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/monitor-center/zipkin-center/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/monitor-center/zipkin-center/zipkin-center-es/pom.xml" />
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/monitor-center/zipkin-center/zipkin-center-es/es-client/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/anso-06-spring-cloud-ocp/open-capacity-platform/oauth-center/auth-sso/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />

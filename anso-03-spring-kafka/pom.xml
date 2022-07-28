@@ -10,6 +10,7 @@
 
     <artifactId>anso-03-spring-kafka</artifactId>
     <packaging>pom</packaging>
+    <name>anso-03-spring-kafka</name>
     <modules>
         <module>kafka-demo</module>
     </modules>
