@@ -14,13 +14,20 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <fastjson.version>1.2.83</fastjson.version>
+        <httpclient.version>4.5.13</httpclient.version>
+    </properties>
+
     <modules>
 <!--        <module>anso-01-file-center</module>-->
 <!--        <module>anso-02-spring-webFlux</module>-->
 <!--        <module>anso-03-spring-kafka</module>-->
 <!--        <module>anso-04-spring-quartz</module>-->
 <!--        <module>anso-05-spring-security</module>-->
-        <module>anso-06-spring-cloud-ocp</module>
+<!--        <module>anso-06-spring-cloud-ocp</module>-->
+<!--        <module>anso-07-netdisk</module>-->
+        <module>anso-08-leetCode</module>
     </modules>
 
 </project>
