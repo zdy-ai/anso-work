@@ -4,9 +4,12 @@
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/anso-03-spring-kafka/kafka-demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/anso-04-spring-quartz/target" />
+      <excludeFolder url="file://$MODULE_DIR$/anso-05-spring-security/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

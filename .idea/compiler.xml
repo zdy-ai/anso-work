@@ -8,57 +8,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="netdisk-user-api" />
         <module name="db-spring-boot-starter" />
+        <module name="common-spring-boot-starter" />
         <module name="rabbitmq-spring-boot-starter" />
+        <module name="ribbon-spring-boot-starter" />
         <module name="job-demo" />
         <module name="uaa-client-spring-boot-starter" />
-        <module name="report-center" />
-        <module name="netdisk-user-provider" />
+        <module name="redis-spring-boot-starter" />
         <module name="log-center" />
-        <module name="model" />
+        <module name="job-admin" />
+        <module name="file-center" />
+        <module name="back-center" />
+        <module name="job-core" />
         <module name="web-flux" />
-        <module name="netdisk-log-provider" />
-        <module name="auth-server" />
         <module name="log-spring-boot-starter" />
-        <module name="runtime" />
-        <module name="utils-common" />
-        <module name="netdisk-service-provider" />
+        <module name="auth-server" />
+        <module name="generator-center" />
+        <module name="anso-09-spring-boot-nlp" />
+        <module name="new-api-gateway" />
+        <module name="anso-08-leetCode" />
         <module name="api-gateway" />
+        <module name="uaa-server-spring-boot-starter" />
+        <module name="es-client" />
         <module name="admin-server" />
         <module name="sms-center" />
         <module name="transaction-center" />
-        <module name="swagger-spring-boot-starter" />
-        <module name="netdisk-client-provider" />
-        <module name="filestore" />
-        <module name="common-spring-boot-starter" />
-        <module name="anso-05-spring-security" />
-        <module name="ribbon-spring-boot-starter" />
-        <module name="redis-spring-boot-starter" />
-        <module name="anso-04-spring-quartz" />
-        <module name="netdisk-web-manage" />
-        <module name="job-admin" />
-        <module name="fescar-api" />
-        <module name="fescar-user" />
-        <module name="file-center" />
-        <module name="sentinel-dashboard" />
-        <module name="fescar-item" />
-        <module name="back-center" />
-        <module name="job-core" />
-        <module name="user-center" />
-        <module name="kafka-demo" />
-        <module name="generator-center" />
-        <module name="fescar-order" />
-        <module name="new-api-gateway" />
-        <module name="anso-08-leetCode" />
-        <module name="service" />
-        <module name="sentinel-spring-boot-starter" />
-        <module name="elastic-job-spring-boot-starter" />
-        <module name="uaa-server-spring-boot-starter" />
-        <module name="es-client" />
-        <module name="persistence" />
         <module name="workflow-center" />
-        <module name="utils-office" />
+        <module name="swagger-spring-boot-starter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -71,6 +47,7 @@
       <module name="anso-06-spring-cloud-ocp" target="1.8" />
       <module name="anso-07-netdisk" target="17" />
       <module name="anso-08-leetCode" target="17" />
+      <module name="anso-09-spring-boot-nlp" target="17" />
       <module name="anso-work" target="1.8" />
       <module name="api-gateway" target="1.8" />
       <module name="auth-server" target="1.8" />
@@ -147,6 +124,7 @@
       <module name="anso-06-spring-cloud-ocp" options="-parameters" />
       <module name="anso-07-netdisk" options="-parameters" />
       <module name="anso-08-leetCode" options="-parameters" />
+      <module name="anso-09-spring-boot-nlp" options="-parameters" />
       <module name="api-gateway" options="-parameters" />
       <module name="auth-server" options="-parameters" />
       <module name="auth-sso" options="-parameters" />

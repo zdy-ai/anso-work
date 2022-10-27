@@ -27,7 +27,8 @@
 <!--        <module>anso-05-spring-security</module>-->
 <!--        <module>anso-06-spring-cloud-ocp</module>-->
 <!--        <module>anso-07-netdisk</module>-->
-        <module>anso-08-leetCode</module>
+<!--        <module>anso-08-leetCode</module>-->
+        <module>anso-09-spring-boot-nlp</module>
     </modules>
 
 </project>

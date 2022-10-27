@@ -24,6 +24,6 @@ public class TwoSum {
      * return [0, 1]
      */
     public static void main(String[] args) {
-        
+        System.out.println("start mian way");
     }
 }
