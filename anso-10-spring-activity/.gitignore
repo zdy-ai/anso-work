@@ -31,5 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/.idea/
-/anso-10-spring-activity/.mvn/

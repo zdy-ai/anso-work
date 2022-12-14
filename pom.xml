@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.7.0</version>
+        <version>2.7.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.project.anso</groupId>
@@ -28,7 +28,8 @@
 <!--        <module>anso-06-spring-cloud-ocp</module>-->
 <!--        <module>anso-07-netdisk</module>-->
 <!--        <module>anso-08-leetCode</module>-->
-        <module>anso-09-spring-boot-nlp</module>
+<!--        <module>anso-09-spring-boot-nlp</module>-->
+        <module>anso-10-spring-activity</module>
     </modules>
 
 </project>

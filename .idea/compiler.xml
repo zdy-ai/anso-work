@@ -8,33 +8,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="db-spring-boot-starter" />
-        <module name="common-spring-boot-starter" />
-        <module name="rabbitmq-spring-boot-starter" />
-        <module name="ribbon-spring-boot-starter" />
-        <module name="job-demo" />
-        <module name="uaa-client-spring-boot-starter" />
-        <module name="redis-spring-boot-starter" />
-        <module name="log-center" />
-        <module name="job-admin" />
-        <module name="file-center" />
-        <module name="back-center" />
-        <module name="job-core" />
-        <module name="web-flux" />
-        <module name="log-spring-boot-starter" />
-        <module name="auth-server" />
-        <module name="generator-center" />
-        <module name="anso-09-spring-boot-nlp" />
-        <module name="new-api-gateway" />
+        <module name="anso-10-spring-activity" />
         <module name="anso-08-leetCode" />
-        <module name="api-gateway" />
-        <module name="uaa-server-spring-boot-starter" />
-        <module name="es-client" />
-        <module name="admin-server" />
-        <module name="sms-center" />
-        <module name="transaction-center" />
-        <module name="workflow-center" />
-        <module name="swagger-spring-boot-starter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -48,6 +23,7 @@
       <module name="anso-07-netdisk" target="17" />
       <module name="anso-08-leetCode" target="17" />
       <module name="anso-09-spring-boot-nlp" target="17" />
+      <module name="anso-10-spring-activity" target="17" />
       <module name="anso-work" target="1.8" />
       <module name="api-gateway" target="1.8" />
       <module name="auth-server" target="1.8" />
@@ -125,6 +101,7 @@
       <module name="anso-07-netdisk" options="-parameters" />
       <module name="anso-08-leetCode" options="-parameters" />
       <module name="anso-09-spring-boot-nlp" options="-parameters" />
+      <module name="anso-10-spring-activity" options="-parameters" />
       <module name="api-gateway" options="-parameters" />
       <module name="auth-server" options="-parameters" />
       <module name="auth-sso" options="-parameters" />
