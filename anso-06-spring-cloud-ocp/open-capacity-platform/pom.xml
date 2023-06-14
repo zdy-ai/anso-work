@@ -50,7 +50,7 @@
 		<jasypt.version>1.14</jasypt.version>
 		<hutool.version>5.1.0</hutool.version>
 		<flowable.version>6.4.1</flowable.version>
-		<fastjson.version>1.2.70</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
   		<disruptor.version>3.4.1</disruptor.version>
   		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>

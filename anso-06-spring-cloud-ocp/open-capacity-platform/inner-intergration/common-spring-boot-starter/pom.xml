@@ -9,7 +9,7 @@
   <description>公共支撑</description>
   
   <properties>
-  		<xss-version>1.5.5</xss-version>
+  		<xss-version>1.5.8</xss-version>
   		<chaos-monkey>2.1.1</chaos-monkey>
   		<zxing-version>3.3.3</zxing-version>
 		<orika-version>1.5.2</orika-version>
@@ -106,6 +106,7 @@
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
+			<version>4.5.13</version>
 			</dependency>
 		
 		<dependency>

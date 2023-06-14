@@ -29,7 +29,8 @@
 <!--        <module>anso-07-netdisk</module>-->
 <!--        <module>anso-08-leetCode</module>-->
 <!--        <module>anso-09-spring-boot-nlp</module>-->
-        <module>anso-10-spring-activity</module>
+<!--        <module>anso-10-spring-activity</module>-->
+        <module>anso-11-spring-app</module>
     </modules>
 
 </project>

@@ -72,7 +72,7 @@
 		<dependency>
 			<artifactId>velocity</artifactId>
 			<groupId>org.apache.velocity</groupId>
-			<version>1.7</version>
+			<version>1.6.2</version>
 		</dependency>
 		 <!-- 选用nacos时打开-->
 		<dependency>

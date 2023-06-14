@@ -3,17 +3,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <artifactId>anso-work</artifactId>
-        <groupId>com.project.anso</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.0.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.leet.code</groupId>
-    <artifactId>anso-08-leetCode</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>anso-11-spring-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>anso-08-leetCode</name>
-    <description>Demo project for Spring Boot</description>
+    <name>anso-11-spring-app</name>
+    <description>anso-11-spring-app</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -26,18 +27,14 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <!--  文字转语音 -->
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.assertj</groupId>
-            <artifactId>assertj-core</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-all</artifactId>
-            <version>5.5.7</version>
+            <groupId>com.hynnet</groupId>
+            <artifactId>jacob</artifactId>
+            <!--8-15-->
+<!--            <version>1.18</version>-->
+            <version>1.18</version>
         </dependency>
     </dependencies>
 
@@ -46,14 +43,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>19</source>
-                    <target>19</target>
-                </configuration>
             </plugin>
         </plugins>
     </build>
